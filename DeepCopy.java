@@ -14,7 +14,6 @@ public class DeepCopy {
         for (int i = 0; i < copiedarr.length; i++) {
             System.out.print(copiedarr[i] + "\t");
         }
-
     }
 
 }
